@@ -9,3 +9,5 @@ Activity 3: Fork Link:  https://github.com/UVA-CS3240-S18/Lab2Fork-102
                           user would understand how to enter proper input.
                                            
 Activity 4: https://github.com/UVA-CS3240-S18/IveGotIssues/issues/105
+
+Activity 5: Made the .gitignore file
